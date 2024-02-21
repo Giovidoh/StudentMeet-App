@@ -8,4 +8,4 @@ npm install @clerk/nextjs
 UploadThing is the easiest way to add file uploads to your full stack TypeScript application.
 Many services have tried to build a "better S3", but in our opinion, none found the right compromise of ownership, flexibility and safety.
 
-npm install @uploadthing/react
+npm install uploadthing @uploadthing/react
