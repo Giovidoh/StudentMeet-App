@@ -1,6 +1,6 @@
 # INSTALL PACKAGES
 ## Install all
-npm install @clerk/nextjs uploadthing @uploadthing/react svix
+npm install @clerk/nextjs uploadthing @uploadthing/react svix tailwindcss-animate
 
 ### Install Clerk
 Simple and secure user authentication, complete with everything you need out-of-the-box to provide a secure experience for your users.
@@ -20,3 +20,7 @@ Building a secure, reliable, and scalable webhook service is hard and time consu
 Svix makes sending webhooks easy and reliable by offering webhook sending as a service. With Svix you can start sending webhooks in minutes, while ensuring robust deliverability, and a great developer experience for your users.
 
 npm install svix
+
+### Install tailwindcss-animate
+
+npm install tailwindcss-animate
